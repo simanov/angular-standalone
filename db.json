@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "4cc1",
+      "fullName": "Samir Imanov",
+      "email": "samir@samir.com",
+      "password": "123"
+    },
+    {
+      "id": "0766",
+      "fullName": "A B",
+      "email": "a@b",
+      "password": "123"
+    }
+  ]
+}
